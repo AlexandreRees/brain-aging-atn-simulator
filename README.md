@@ -1,1 +1,2 @@
-# brain-aging-atn-simulator
+# Brain aging AT(N) simulator 
+An educational 
